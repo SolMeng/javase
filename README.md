@@ -9,3 +9,5 @@ https://blog.csdn.net/injoymario/article/details/79634303
 https://blog.csdn.net/oschina_41790905/article/details/79475187  
 4. idea上传本地项目到github上  
 https://www.cnblogs.com/jinjiyese153/p/6796668.html （貌似不用配置git?）
+5. 大白话讲git和github
+http://blog.jobbole.com/111187/#article-comment
