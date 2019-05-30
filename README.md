@@ -1,5 +1,5 @@
 # javase
-idea首次上传项目到github上 并进行相关复习的记录
+idea首次上传项目到github上 并进行相关复习的记录   
 Date:2019-05-30
 1. java开发命名规范总结  
 https://www.cnblogs.com/FocusIN/p/5811189.html
