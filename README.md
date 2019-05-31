@@ -8,6 +8,6 @@ https://blog.csdn.net/injoymario/article/details/79634303
 3. IntelliJ IDEA 如何创建一个普通的java项目  
 https://blog.csdn.net/oschina_41790905/article/details/79475187  
 4. idea上传本地项目到github上  
-https://www.cnblogs.com/jinjiyese153/p/6796668.html （貌似不用配置git?）
+https://www.cnblogs.com/jinjiyese153/p/6796668.html （貌似本地配置好git的用户名邮箱即可，github上无需配置）
 5. 大白话讲git和github  
 http://blog.jobbole.com/111187/#article-comment
