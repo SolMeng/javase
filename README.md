@@ -11,5 +11,5 @@ https://www.cnblogs.com/jinjiyese153/p/6796668.html （貌似本地配置好git�
 5. 大白话讲git和github  
 http://blog.jobbole.com/111187/#article-comment
 6. mac本地查找git安装目录  
-命令行：'which git' 得到：'usr/bin/git'（隐藏路径）
-打开finder:'commend+shift+G'方可查到
+命令行：```which git``` 得到：usr/bin/git（隐藏路径）  
+打开finder:```commend+shift+G```方可查到
